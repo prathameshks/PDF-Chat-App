@@ -1,0 +1,13 @@
+streamlit
+torch
+transformers
+sentence-transformers
+PyMuPDF
+pandas
+numpy
+spacy
+tqdm
+nltk
+huggingface_hub
+python-dotenv
+accelerate>=0.26.0
